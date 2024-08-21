@@ -1,0 +1,28 @@
+{
+  "name": "webrtc-codelab",
+  "version": "0.0.1",
+  "description": "WebRTC codelab",
+  "dependencies": {
+    "http": "0.0.0",
+    "node-static": "0.7.7",
+    "os": "^0.1.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "socket.io": "^1.2.0"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/boardgameplay.git"
+  },
+  "keywords": [
+    "heroku",
+    "node"
+  ],
+  "author": "abhishek",
+  "license": "ISC"
+}
